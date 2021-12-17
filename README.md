@@ -8,6 +8,7 @@
 </pre>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=for-the-badge&logo=Django&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
