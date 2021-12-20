@@ -3,9 +3,7 @@
 
 <p style="margin:20px;"><a href="https://ankushminda.com"> <img align="left" src="https://user-images.githubusercontent.com/26448060/145684154-cd24eacc-22f5-4f2b-94e5-084bc09222d5.png"  width="100%" alt="ankushminda" /></a></p>  
 
-<pre align=right>
-<a></a>
-</pre>
+<p align="center">~~~~~~~~~~~~~~~~</p>
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4AB197)
@@ -38,4 +36,4 @@
 
 
 <br/><br/><br/><br/>
-📫 Reach me **hello@ankushminda.com**
+📫 Reach me **<a href=mailto:hello@ankushminda.com>hello@ankushminda.com</a>**
